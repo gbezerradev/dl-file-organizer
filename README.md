@@ -1,5 +1,5 @@
-# file-organizer
-<p>Automatically organize files in your download folder, moving them to subfolders. Made for Android</p>
+# dl-file-organizer
+<p>Automatically organize files in your download folder, moving them to subfolders. Made for Android.</p>
 
 <img src="https://i.ibb.co/KjL2VYk/Screenshot-20210430-084946-Termux.jpg">
 
