@@ -15,11 +15,11 @@ $ pkg install git nodejs -y
 ```
 clone this repo:
 ```bash
-$ git clone https://github.com/Bwzerra/file-organizer
+$ git clone https://github.com/Bwzerra/dl-file-organizer
 ```
 enter the cloned dir:
 ```bash
-$ cd file-organizer/ 
+$ cd dl-file-organizer/ 
 ```
 and then run the javascript script by typing:
 ```bash
